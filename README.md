@@ -1,7 +1,6 @@
 # Predicting Loan Subscription Project - Comparing Boosting Methods 
 Here we use the dataset from the UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/dataset/222/bank+marketing)
 <img width="1004" height="415" alt="Screenshot 2026-10-21 at 2 23 19 PM" src="https://github.com/user-attachments/assets/e3863752-5f68-4ea3-8d2a-70ddd5592120" />
-The dataset is related to the  direct marketing campaigns of a Portuguese banking institution. 
 The marketing campaigns were based on phone calls to new clients.
 
 **AIM**: To determine whether or not a client will subscribe (YES/NO) to a long-term deposit
