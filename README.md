@@ -8,7 +8,7 @@ The marketing campaigns were based on phone calls to new clients.
 
 **Objectives**: 
 
-1)To compare the accuracy of different boosting models (GradientBoosting, Hist-based GradientBoosting, LightGBM) in predicting YES/NO, and to determine the optimal model for prediction 
+1)To compare the accuracy of different boosting models (GradientBoosting, Hist-based GradientBoosting, LightGBM) in predicting YES/NO, and to determine the optimal model to use for future predictions
 
 2)To determine which client groups to target, based on the features of the clients that did subscribe 
 
